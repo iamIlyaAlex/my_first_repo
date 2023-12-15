@@ -11,3 +11,8 @@ Added text in web browser
 ```sh  
 Added text local
 ```  
+
+```sh  
+Added text in a new branch 'newbranch'
+```  
+
