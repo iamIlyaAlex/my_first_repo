@@ -16,6 +16,6 @@ Added text local
 Added text in a new branch 'newbranch'
 ```  
 
-```sh  
-Resolve conflict 'local text'
-```  
+```sh
+Resolving text 'conflict in the browser'
+```
