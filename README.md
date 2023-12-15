@@ -16,3 +16,6 @@ Added text local
 Added text in a new branch 'newbranch'
 ```  
 
+```sh
+Resolve the conflict
+```
