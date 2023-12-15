@@ -17,5 +17,5 @@ Added text in a new branch 'newbranch'
 ```  
 
 ```sh
-Resolve the conflict
+Resolving text 'conflict in the browser'
 ```
